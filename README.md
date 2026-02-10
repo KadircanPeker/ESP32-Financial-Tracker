@@ -21,11 +21,11 @@ The device displays real-time data on a 0.96" OLED screen.
 
 | **Portfolio Overview** | **Stock Market (BIST)** | **Crypto (Bitcoin)** |
 | :---: | :---: | :---: |
-| <img src="toplam_varlik.jpg" width="250"> | <img src="borsa_hisse.jpg" width="250"> | <img src="kripto_bitcoin.jpg" width="250"> |
+| <img src="toplam_varlik.jpeg" width="250"> | <img src="borsa_hisse.jpeg" width="250"> | <img src="kripto_bitcoin.jpeg" width="250"> |
 
 | **Commodities (Gold)** | **Forex (USD)** |
 | :---: | :---: |
-| <img src="altin_piyasasi.jpg" width="250"> | <img src="doviz_kuru.jpg" width="250"> |
+| <img src="altin_piyasasi.jpeg" width="250"> | <img src="doviz_kuru.jpeg" width="250"> |
 
 ## 🛠️ Hardware Required
 
@@ -48,12 +48,4 @@ The device displays real-time data on a 0.96" OLED screen.
 
 ## 🚀 Installation & Setup
 
-1.  **Libraries:** Install `Adafruit_SSD1306`, `ArduinoJson`, `WiFiManager` via Arduino IDE.
-2.  **API Key:** Get a free API key from CollectAPI and update the code.
-3.  **Upload:** Upload the `.ino` file to your ESP32.
-4.  **Setup:** Connect to "ESP32_Borsa_Kurulum" WiFi and configure your settings via the Web Interface.
-
-## 👨‍💻 Author
-
-**Kadircan Peker**
-*Electrical & Electronics Engineering Student*
+1.  **Libraries:** Install `Ada
