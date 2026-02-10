@@ -48,4 +48,12 @@ The device displays real-time data on a 0.96" OLED screen.
 
 ## 🚀 Installation & Setup
 
-1.  **Libraries:** Install `Ada
+1.  **Libraries:** Install `Adafruit_SSD1306`, `ArduinoJson`, `WiFiManager` via Arduino IDE.
+2.  **API Key:** Get a free API key from CollectAPI and update the code.
+3.  **Upload:** Upload the `.ino` file to your ESP32.
+4.  **Setup:** Connect to "ESP32_Borsa_Kurulum" WiFi and configure your settings via the Web Interface.
+
+## 👨‍💻 Author
+
+**Kadircan Peker**
+*Electrical & Electronics Engineering Student*
