@@ -21,11 +21,11 @@ The device displays real-time data on a 0.96" OLED screen.
 
 | **Portfolio Overview** | **Stock Market (BIST)** | **Crypto (Bitcoin)** |
 | :---: | :---: | :---: |
-| <img src="images/toplam_varlik.jpg" width="250"> | <img src="images/borsa_hisse.jpg" width="250"> | <img src="images/kripto_bitcoin.jpg" width="250"> |
+| <img src="toplam_varlik.jpg" width="250"> | <img src="borsa_hisse.jpg" width="250"> | <img src="kripto_bitcoin.jpg" width="250"> |
 
 | **Commodities (Gold)** | **Forex (USD)** |
 | :---: | :---: |
-| <img src="images/altin_piyasasi.jpg" width="250"> | <img src="images/doviz_kuru.jpg" width="250"> |
+| <img src="altin_piyasasi.jpg" width="250"> | <img src="doviz_kuru.jpg" width="250"> |
 
 ## 🛠️ Hardware Required
 
